@@ -1,0 +1,28 @@
+name: rjphoto
+favicon: null
+layout_spectrum: 0.4281164510175586
+typography_spectrum: 0.9921615498606116
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8038942678831518
+  lightness: 0.8324751518666744
+  saturation: 0.01706880726851523
+  rhythmicContrast: 0.9571969027165323
+purpose: []
